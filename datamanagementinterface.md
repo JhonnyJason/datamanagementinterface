@@ -1,3 +1,4 @@
+[![hackmd-github-sync-badge](https://hackmd.io/4UKQrvqEQSulFM_qKHDCGA/badge)](https://hackmd.io/4UKQrvqEQSulFM_qKHDCGA)
 ###### tags: `documentation` `sci`
 
 # [datamanagementinterface](https://github.com/JhonnyJason/datamanagementinterface) v0.1
