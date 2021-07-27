@@ -1,0 +1,42 @@
+### 
+POST {{local}}/storeFile
+content-type: application/json
+
+{
+"authCode": "...", 
+"publicKey": "...", 
+"fileName": "...", 
+"fileContent": "..."
+}
+### 
+POST {{local}}/updateFile
+content-type: application/json
+
+{
+"authCode": "...", 
+"publicKey": "...", 
+"fileName": "...", 
+"fileContent": "..."
+}
+### 
+POST {{local}}/storeRestrictedFile
+content-type: application/json
+
+{
+"authCode": "...", 
+"publicKey": "...", 
+"fileName": "...", 
+"fileContent": "...", 
+"keyNames": "..."
+}
+### 
+POST {{local}}/updateRestriction
+content-type: application/json
+
+{
+"authCode": "...", 
+"publicKey": "...", 
+"fileName": "...", 
+"keyNames": "...", 
+"mode": "..."
+}
